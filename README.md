@@ -4,6 +4,7 @@
 - Leading the creation of a migration platform to smoothly move the product suite from end-of life CentOS 7 to secure and up-to-date Rocky Linux 8.
 - Expert in containerization leveraging Docker for building and deploying applications on cloud platform (Microsoft Azure).
 - Skilled in utilizing streaming tools like message queues and Kafka to optimize data processing and communication.
+- Developed many CLI based tools to do the software upgrade, firmware upgrade, and BMC & BIOS configuration change. 
 
 # Skills
 - programming and Debugging :  C/C++, Python, Shell Scripting, SQL, API, Rest API, GDB, Multithreading, Concurrency, Design Patterns, CMake, and Data-Structure & Algorithms.                                        
