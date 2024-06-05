@@ -1,3 +1,4 @@
+![Hello](https://github.com/rohit12techie/rohit12techie/blob/main/2.png)
 # Summary 
 - Over a decade of proven experience developing and troubleshooting complex software across servers, storage systems, embedded devices, and platforms.
 - Designing and implementing a platform for efficient communication between numerous edge devices within the organization.
